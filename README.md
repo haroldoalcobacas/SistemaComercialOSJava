@@ -1,1 +1,2 @@
 # SistemaComercialOSJava
+## inicializando projeto
